@@ -3,4 +3,5 @@ Implementazione dell’interfaccia ElasticSet, che prevede la creazione di una c
 
 ![requirements.jpg](https://github.com/stepmolotov/PR2-ElasticSet-Java/blob/main/images/requirements.jpg)
 
+![run_test.jpg](https://github.com/stepmolotov/PR2-ElasticSet-Java/blob/main/images/run_test.jpg)
 
